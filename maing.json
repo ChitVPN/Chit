@@ -3,14 +3,47 @@
 
 
 {
-         "name": "Thailand-001",
-         "url": "https://github.com/ChitVPN/Chit/raw/main/zko2.zip"
+         "name": "TH-DTAC-VIP1",
+         "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/01.ovpn"
+      }
+,
+{
+         "name": "TH-DTAC-VIP2",
+         "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/02.ovpn"
+      }
+,
+{
+         "name": "TH-TRUE-VIP1",
+         "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/03.ovpn"
+      }
+,
+{
+         "name": "TH-TRUE-VIP2",
+         "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/04.ovpn"
+      }
+      ,
+      {
+         "name": "SG-TRUE-FREE1",
+         "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/SG-TRUE-FREE1.ovpn"
+      }
+      ,
+      {
+         "name": "SG-DTAC-FREE1",
+         "url": "https://raw.githubusercontent.com/ZKOVPN/ZKOVPN/main/SG-DTAC-FREE1.ovpn"
       }
 
 
 
-  ],
-"message":"🟢VIP- VPN🟢\n\n📢VIP ၀ယ်လိုပါက 1လ50ပါ📢\n\n•🚀Fixed All Servers🚀\n•Version:1\n\n•Owner By: Zin Ko Oo ",
-   "title":"✅12 January 2023✅" ,
-   "version": 1
+   ],
+"message":"
+💥DTAC NOPRO💯
+💥TRUE NOPRO💯
+🔥IOS +Android +PC
+🌟VIP Face+Youtube++✅
+🌟VIP Game+Online✅
+🌟VIP ဂိမ်းအတွက်ရပါပြီ💯
+💥Update 22/10/2022✅
+\n\nUpdate Now",
+"title":"New Update File" ,
+   "version":25
 }
