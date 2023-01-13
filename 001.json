@@ -1,0 +1,29 @@
+{
+// version for updating, if there is an update, need to change more numbers than before
+"Version":"1.2",
+//link for server update
+"Url":"https://protect-link.duckdns.org/new2.zip" ,
+"Changelog":"
+Latest update 01/13/2022
+TRUE No Pro
+DTAC No Pro
+🙏သင်ဆရာမြင်ဆရာများအာလုံးလေးစားလျှတ်ပါ🙏
+vipတလစာ၅၀ဘတ်ဖြင်
+ဝယ်ယူအားပေးနိုင်ပါပြီ
+Zin Ko Oo
+Add function to page load
+",
+ 
+ 
+ 
+ 
+ 
+ 
+// don't mess with the bottom
+"latestVersion": "1.0.0",
+"latestVersionCode": "1",
+"url": "",
+ "releaseNotes": [
+ "-Demo"
+  ]
+}
