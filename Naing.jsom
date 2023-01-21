@@ -1,8 +1,6 @@
 {
    "files": [    
 
-
-
 {
          "name": "TH-True-Dtac",
          "url": "https://github.com/ChitVPN/Chit/raw/main/TH-001.ovpn"
@@ -11,7 +9,6 @@
          "name": "TH-True-Dtac",
          "url": "https://github.com/ChitVPN/Chit/raw/main/TH-002VIP.ovpn"
       }
-
 
 
    ],
