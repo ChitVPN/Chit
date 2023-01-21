@@ -1,10 +1,20 @@
 {
    "files": [    
 
+
+
 {
-         "name": "TH-True-Dtac",
-         "url": "https://github.com/ChitVPN/Chit/raw/main/TH-001.ovpn"
+         "name": "TH-Dtac-01",
+         "url": "https://raw.githubusercontent.com/MaiSungVPN/ZKO-VPN/main/d-t.ovpn"
       }
+
+,
+
+{
+         "name": "SG-True-Dtac-Free",
+         "url": "https://raw.githubusercontent.com/MaiSungVPN/ZKO-VPN/main/sg.ovpn"
+      }
+
 
 
    ],
@@ -15,7 +25,7 @@
 🌟VIP Face+Youtube🌟
 🌟VIP Game+Online🌟
 🚀Update 21/1/2023🚀
-\n\nဖိုင်ဗားရှင်း3",
+\n\nဖိုင်ဗားရှင်း2",
 "title":"New Update File" ,
    "version":1
 }
