@@ -4,20 +4,20 @@
 
 
 {
-         "name": "TH-Dtac-01",
+         "name": "TH-Vip-01",
          "url": "https://github.com/ChitVPN/Chit/raw/main/TH-001.ovpn"
       }
 ,
 
 {
-         "name": "TH-Dtac-02",
+         "name": "TH-Vip-02",
          "url": "https://github.com/ChitVPN/Chit/raw/main/TH-002VIP.ovpn"
       }
 
 ,
 
 {
-         "name": "SG-True-Dtac-Free",
+         "name": "TH-True-Dtac-Free",
          "url": "https://raw.githubusercontent.com/MaiSungVPN/ZKO-VPN/main/sg.ovpn"
       }
 
