@@ -4,13 +4,13 @@
 
 
 {
-         "name": "TH-Vip-01",
+         "name": "TH-True-Dtac-Vip1",
          "url": "https://github.com/ChitVPN/Chit/raw/main/TH-001.ovpn"
       }
 ,
 
 {
-         "name": "TH-Vip-02",
+         "name": "TH-True-Dtac-Vip2",
          "url": "https://github.com/ChitVPN/Chit/raw/main/TH-002VIP.ovpn"
       }
 
